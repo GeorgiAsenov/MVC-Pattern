@@ -1,0 +1,14 @@
+ul {
+    list-style-type: none;
+}
+.todo {
+    margin-left: 1rem;
+    font-size: 2rem;
+}
+
+.delete {
+    color: red;
+    font-size: 2rem;
+    font-weight: bolder; 
+    cursor: pointer;
+}
